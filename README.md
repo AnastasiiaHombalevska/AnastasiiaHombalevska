@@ -16,6 +16,6 @@
 
 <div style="display: flex; justify-content: center;">
   <img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=anastasiiahombalevska&show_icons=true&locale=en" alt="anastasiiahombalevska" width="450px"  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnastasiiaHombalevska&&show_icons=true&locale=en" alt="AnastasiiaHombalevska" width="450px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnastasiiaHombalevska&&show_icons=true&locale=en" alt="AnastasiiaHombalevska" width="350px" />
 </div>
 
