@@ -30,5 +30,5 @@
 </div>
 
 <div style="margin-top: 30px;">
-  ![https://github.r2v.ch/codewars?user=Vasilisandreeva&stroke=%23BB432]([https://www.codewars.com/users/Vasilisandreeva/badges/small?theme=light](https://www.codewars.com/users/Vasilisandreeva/badges/large?theme=light))
+  ![https://github.r2v.ch/codewars?user=Vasilisandreeva&stroke=%23BB432](https://www.codewars.com/users/Vasilisandreeva/badges/large?theme=light)
 </div>
