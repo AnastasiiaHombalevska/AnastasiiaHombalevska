@@ -30,5 +30,5 @@
 </div>
 
 <div style="margin-top: 30px;">
-  ![https://www.codewars.com/users/Vasilisandreeva/badges/large?theme=light]
+  [https://www.codewars.com/users/Vasilisandreeva/badges/large?theme=light]
 </div>
