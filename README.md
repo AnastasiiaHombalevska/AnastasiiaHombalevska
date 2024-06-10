@@ -29,6 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnastasiiaHombalevska&show_icons=true&locale=en" alt="AnastasiiaHombalevska" width="350px" />
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=Vasilisandreeva&stroke=%23BB432)
+![Codewars]([https://github.r2v.ch/codewars?user=Vasilisandreeva&stroke=%23BB432](https://www.codewars.com/users/Vasilisandreeva/badges/small?theme=light))
 
 
