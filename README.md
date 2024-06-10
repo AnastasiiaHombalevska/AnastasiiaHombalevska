@@ -29,6 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnastasiiaHombalevska&show_icons=true&locale=en" alt="AnastasiiaHombalevska" width="350px" />
 </div>
 
-<div style="margin-top: 30px;">
-  [https://www.codewars.com/users/Vasilisandreeva/badges/large?theme=light]
-</div>
+  ![https://www.codewars.com/users/Vasilisandreeva/badges/large?theme=light]
