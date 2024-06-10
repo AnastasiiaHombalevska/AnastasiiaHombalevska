@@ -29,4 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnastasiiaHombalevska&show_icons=true&locale=en" alt="AnastasiiaHombalevska" width="350px" />
 </div>
 
+![Codewars](https://github.r2v.ch/codewars?user=Vasilisandreeva&stroke={blue})
+
 
