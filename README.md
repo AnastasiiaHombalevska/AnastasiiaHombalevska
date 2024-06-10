@@ -1,11 +1,10 @@
 # Hi, I'm Anastasiia Hombalevska 🤝
 
 <table>
-<ul style="list-style: none;">
-  <li>🌱 I am currently learning **React with TypeScript**.</li>
-  <li>✨ I like to create websites.</li>
-  <li>🎯 My goal is to learn how to implement projects of different levels of complexity.</li>
-  <li></li>
+<ul>
+  <li style="list-style: none;">🌱 I am currently learning **React with TypeScript**.</li>
+  <li style="list-style: none;">✨ I like to create websites.</li>
+  <li style="list-style: none;">🎯 My goal is to learn how to implement projects of different levels of complexity.</li>
 </ul>
 </table>
 
