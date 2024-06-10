@@ -10,6 +10,9 @@
 </tr>
 </table>
 
+
+# ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#AnastasiiaHombalevska&theme=dracula&hide_border=true)
+
 <!--
 **AnastasiiaHombalevska/AnastasiiaHombalevska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
