@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anastasiia Hombalevska</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **React with TypeScript**
+- 🌱 I’m currently learning **DOM**
 - ✨ I like to create websites.
 - 🎯 My goal is to learn how to implement projects of different levels of complexity.
 
