@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **DOM**
+- 🔭 I’m working on projects to add to my portfolio
 - ✨ I like to create websites.
 - 🎯 My goal is to learn how to implement projects of different levels of complexity.
 
