@@ -24,9 +24,4 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <img style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api?username=anastasiiahombalevska&show_icons=true&locale=en" alt="anastasiiahombalevska" width="450px" />
-  <img style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnastasiiaHombalevska&show_icons=true&locale=en" alt="AnastasiiaHombalevska" width="350px" />
-</div>
-
 ![https://github.r2v.ch/codewars?user=USERNAME&stroke=COLOR](https://www.codewars.com/users/Vasilisandreeva/badges/large?theme=light)
